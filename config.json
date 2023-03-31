@@ -1,0 +1,7 @@
+{
+    "privateKey": "YOUR_PRIVATE_KEY",
+    "publicKey": "YOUR_PUBLIC_KEY",
+    "betAmt": 0.1,
+    "gweiGas": 5,
+    "webHookUrl": "YOUR_DISCORD_WEBHOOK_URL"
+}
