@@ -1,4 +1,4 @@
-# Pancakeswap-prediction-python-PPP-
+# Pancakeswap-prediction-python-PPP
 
 This Python script is a betting bot for the BSC Prediction Market. It interacts with the Prediction Market smart contract and places bets on BULL or BEAR based on the current price fetched from an oracle. It also claims winnings, and sends bet notifications to a Discord channel using webhooks.
 
