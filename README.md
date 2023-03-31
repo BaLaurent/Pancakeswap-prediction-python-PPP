@@ -26,9 +26,9 @@ pip install web3 discord-webhook
 }
 ```
 
-.Replace YOUR_PRIVATE_KEY with your wallet's private key.
-.Replace YOUR_PUBLIC_KEY with your wallet's public key.
-.Replace YOUR_DISCORD_WEBHOOK_URL with your Discord webhook URL.
+- Replace YOUR_PRIVATE_KEY with your wallet's private key.
+- Replace YOUR_PUBLIC_KEY with your wallet's public key.
+- Replace YOUR_DISCORD_WEBHOOK_URL with your Discord webhook URL.
 
 ## Usage
 
