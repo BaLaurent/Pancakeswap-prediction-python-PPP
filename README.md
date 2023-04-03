@@ -62,3 +62,8 @@ bot.betBear()
 bot.claim()
 
 ```
+
+## Donation
+If you find this package useful please mind doing a donation 
+BSC : 0x22D4F43ab210B4a5bc95B9F3C92B24934db8AFe4
+<br><a href="https://www.buymeacoffee.com/octopusman388"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=octopusman388&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
